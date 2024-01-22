@@ -11,12 +11,15 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 
  /* Il linguaggio JavaScript comprende cinque tipi di datatype
-  semplici o primitivi:
+  primitivi o primitivi complessi:
   -Numeri
   -Stringhe (Semplicemente sono dei testi quindi composti da caratteri)
   -Booleani (Una semplice risposta di Vero o Falso)
   -null    (asssenza vaalore non intenzionale)
   -undefined. ( assenza valore intezionale)
+  primitivi complessi
+  -bigint
+  -symbol
 */
 
 /* ESERCIZIO 2

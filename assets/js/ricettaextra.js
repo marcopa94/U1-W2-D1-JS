@@ -1,0 +1,10 @@
+let mele = 8;
+let farina = 250;
+let zucchero = 250;
+let latte = 150;
+let limone = 1;
+let uova = 2;
+let burro = 100;
+let risultato = farina + zucchero + uova + mele;
+console.log(risultato + "grammi totali neccessari");
+window.alert("Pericolo Calorie");
